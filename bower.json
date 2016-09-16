@@ -5,7 +5,8 @@
   "authors": [
     "Jim Liu <https://github.com/JimLiu>",
     "Voles <https://github.com/Voles>",
-    "Stefan Mohr <https://github.com/StefanCodes>"
+    "Stefan Mohr <https://github.com/StefanCodes>",
+    "Eleazar Araujo <https://github.com/eleazar-araujo>"
   ],
   "description": "Tree directive for AngularJS",
   "main": [
