@@ -6,8 +6,9 @@
 (function () {
   'use strict';
 
-  angular.module('ui.tree', [])
-    .constant('treeConfig', {
+  angular.module('ui.tree', [], function($rootScopeProvider) {
+    $rootScopeProvider.digestTtl(6000);
+  }).constant('treeConfig', {
       treeClass: 'angular-ui-tree',
       emptyTreeClass: 'angular-ui-tree-empty',
       hiddenClass: 'angular-ui-tree-hidden',
