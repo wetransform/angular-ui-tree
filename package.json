@@ -34,7 +34,7 @@
     "karma-ng-html2js-preprocessor": "1.0.0",
     "karma-phantomjs-launcher": "1.0.2",
     "load-grunt-tasks": "3.5.2",
-    "open": "0.0.5",
+    "open": "7.0.4",
     "phantomjs-prebuilt": "2.1.12",
     "protractor": "4.0.8",
     "require-dir": "0.3.0"
